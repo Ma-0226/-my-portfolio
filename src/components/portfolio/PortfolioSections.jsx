@@ -93,7 +93,7 @@ function About() {
         <div className="about-grid">
           <Reveal className="portrait-card" aria-label="Illustrated placeholder for your portrait">
             <Image
-              src="/profile.jpg"
+              src="/-my-portfolio/profile.jpg"
               alt="My portrait"
               width={450}
               height={200}
