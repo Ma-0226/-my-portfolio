@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "tailwindcss";
+
 
 
 :root {
@@ -36,8 +36,9 @@
   --font-sans: var(--font-space-grotesk);
   --font-mono: var(--font-geist-mono);
 }
-
-* {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -45,6 +46,8 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: 6rem;
   background: var(--paper);
+  max-width: 100%;
+  overflow-x: clip;
 }
 
 body {
@@ -52,10 +55,10 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
+  max-width: 100%;
+  overflow-x: clip;
   font-family: var(--font-display);
-  transition:
-    background-color 240ms ease,
-    color 240ms ease;
+  transition: background-color 240ms ease, color 240ms ease;
 }
 
 body,
