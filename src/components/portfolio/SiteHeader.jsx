@@ -90,9 +90,13 @@ export default function SiteHeader() {
           <Moon className="theme-icon--moon" size={18} aria-hidden="true" />
           <Sun className="theme-icon--sun" size={18} aria-hidden="true" />
         </button>
-        <a className="desktop-link" href="#contact">
-          Résumé <ArrowDownToLine size={14} aria-hidden="true" />
-        </a>
+        <a
+  className="desktop-link"
+  href="/-my-portfolio/Mamoun_Alrefai_CV.pdf"
+  download="Mamoun_Alrefai_CV.pdf"
+>
+  Résumé <ArrowDownToLine size={14} aria-hidden="true" />
+</a>
         <button
           className="menu-toggle"
           type="button"
