@@ -132,7 +132,9 @@ stack: [
     "/-my-portfolio/wasiny/device-shot (2).jpeg",
     "/-my-portfolio/wasiny/device-shot (3).jpeg",
     "/-my-portfolio/wasiny/device-shot (5).jpeg",  
- "/-my-portfolio/wasiny/device-shot (6).jpeg", 
+ "/-my-portfolio/wasiny/device-shot (6).jpeg",
+  "/-my-portfolio/wasiny/device-shot (10).jpg",
+
    "/-my-portfolio/wasiny/device-shot (7).jpeg",
       "/-my-portfolio/wasiny/device-shot (8).jpeg",  
        "/-my-portfolio/wasiny/device-shot (9).jpeg",  
