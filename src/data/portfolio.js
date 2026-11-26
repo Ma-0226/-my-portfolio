@@ -137,6 +137,12 @@ stack: [
 
    "/-my-portfolio/wasiny/device-shot (7).jpeg",
       "/-my-portfolio/wasiny/device-shot (8).jpeg",  
+      "/-my-portfolio/wasiny/device-shot.jpg",  
+      "/-my-portfolio/wasiny/device-shot 11.jpg",  
+      "/-my-portfolio/wasiny/device-shot 12.jpg",  
+
+
+
        "/-my-portfolio/wasiny/device-shot (9).jpeg",  
 
   ],
